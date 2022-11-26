@@ -11,7 +11,6 @@ const SingleCityView = ({ weatherData, getSingleCity }) => {
 	const [loading, setLoading] = useState(true);
 	const [city, setCity] = useState({});
 	const [cityWeather, setCityWeather] = useState({});
-	console.log(cityWeather);
 
 	const airQualityObj = {
 		1: "Good",
