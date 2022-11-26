@@ -1,0 +1,9 @@
+.individual-card {
+	background: hsla(0, 0%, 100%, 0.8) !important;
+	backdrop-filter: blur(4px);
+}
+
+.resource-image {
+	height: 286.667px;
+	width: 190.6px;
+}
